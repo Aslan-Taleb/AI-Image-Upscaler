@@ -6,7 +6,5 @@ résolution deux (64x64) ou quatre fois supérieure (128x128).
 ## Equipe:
 Aslan Taleb
 
-Emmanuel
-
-Ayman
+Emmanuel P.Emile
 
