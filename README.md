@@ -1,7 +1,7 @@
 # AI Image Upscaler
 
 une fonction qui « devine » l’image d’entrée (32x32) à une
-résolution deux (64x64).
+résolution de (64x64).
 
 ## Equipe:
 Aslan Taleb
